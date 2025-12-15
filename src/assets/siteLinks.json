@@ -2,36 +2,56 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://zayck.pages.dev/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "PenNib",
+    "name": "少阳手记",
+    "link": "https://mp.weixin.qq.com/mp/homepage?__biz=MzU2MTI5MzE4OA==&hid=1&sn=356f3016aeac48fc034804fca1307349&scene=18#wechat_redirect/"
   },
+  {
+    "icon": "ChessKnight",
+    "name": "少阳研究所",
+    "link": "https://mp.weixin.qq.com/s/eSMLs8lNVw_dOEamsXIw-Q"
+  },
+  {
+    "icon": "FileImage",
+    "name": "图床",
+    "link": "https://zayck-img.pages.dev"
+  },
+  {
+    "icon": "Music",
+    "name": "音乐",
+    "link": "https://zayck-music.pages.dev"
+  },  
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "电影",
+    "link": "https://zayck-tv.pages.dev"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "EnvelopeRegular",
+    "name": "临时邮箱",
+    "link": "https://zayck34.dpdns.org/zh-CN"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://zayck.pages.dev/navigation"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "https://zayck-hot.pages.dev"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://cloud.umami.is/share/4Tlp3TulhKqFOdTI"
+  },
+  {
+    "icon": "Coffee",
+    "name": "支持博主",
+    "link": "https://zayck-firefly.pages.dev/sponsor"
   }
 ]

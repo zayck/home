@@ -103,7 +103,7 @@ watch(
       width: 100%;
       padding-left: 22px;
       transform: translateY(-8px);
-      font-family: "Pacifico-Regular";
+      font-family: "UnidreamLED";
 
       .bg {
         font-size: 5rem;
